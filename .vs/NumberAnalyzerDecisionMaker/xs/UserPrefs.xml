@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{D2CF25F1-E720-471E-883B-79FF2389D238}|Default">
+  <MonoDevelop.Ide.ItemProperties.NumberAnalyzerDecisionMaker FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NumberAnalyzerDecisionMaker/Program.cs">
+    <Files>
+      <File FileName="NumberAnalyzerDecisionMaker/Program.cs" Line="9" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NumberAnalyzerDecisionMaker" expanded="True">
+            <Node name="NumberAnalyzerDecisionMaker" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
