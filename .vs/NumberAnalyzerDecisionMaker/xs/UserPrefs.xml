@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{D2CF25F1-E720-471E-883B-79FF2389D238}|Default">
-  <MonoDevelop.Ide.ItemProperties.NumberAnalyzerDecisionMaker FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.NumberAnalyzerDecisionMaker PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="NumberAnalyzerDecisionMaker/Program.cs">
     <Files>
-      <File FileName="NumberAnalyzerDecisionMaker/Program.cs" Line="9" Column="47" />
+      <File FileName="NumberAnalyzerDecisionMaker/Program.cs" Line="6" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
